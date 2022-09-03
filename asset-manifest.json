@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.583bfdc7.css",
+    "main.js": "/portfolio-react/static/js/main.ba74bb93.js",
+    "static/js/787.aeca62f9.chunk.js": "/portfolio-react/static/js/787.aeca62f9.chunk.js",
+    "static/media/funshot_small.jpg": "/portfolio-react/static/media/funshot_small.e7a14c96ce495a2fa669.jpg",
+    "static/media/portfolio-img.png": "/portfolio-react/static/media/portfolio-img.15ba93cd11e5d6335843.png",
+    "static/media/local-music-scene.jpg": "/portfolio-react/static/media/local-music-scene.a46cbac4731385842d01.jpg",
+    "static/media/zoo-keepr.png": "/portfolio-react/static/media/zoo-keepr.0221f2bbe41a88968d99.png",
+    "static/media/weather-dahsboard.png": "/portfolio-react/static/media/weather-dahsboard.c4dab9d290b2e5d7c76a.png",
+    "static/media/git-it-done.png": "/portfolio-react/static/media/git-it-done.094a961e7d185f823606.png",
+    "static/media/deep-thoughts.png": "/portfolio-react/static/media/deep-thoughts.aeb74c3d509a4271f40a.png",
+    "static/media/task-manager.png": "/portfolio-react/static/media/task-manager.02fa8fedd56c4d06aba9.png",
+    "static/media/just-tech-news.png": "/portfolio-react/static/media/just-tech-news.bbeca0222e8c89ab7d4c.png",
+    "static/media/work-day-scheduler.png": "/portfolio-react/static/media/work-day-scheduler.9ee0d0a5fd39c2266ee3.png",
+    "static/media/tech-blog.png": "/portfolio-react/static/media/tech-blog.ef6504eac53b18f7cb9e.png",
+    "static/media/investment-portfolio-dashboard.png": "/portfolio-react/static/media/investment-portfolio-dashboard.4cbca498fbd39d87028d.png",
+    "index.html": "/portfolio-react/index.html",
+    "main.583bfdc7.css.map": "/portfolio-react/static/css/main.583bfdc7.css.map",
+    "main.ba74bb93.js.map": "/portfolio-react/static/js/main.ba74bb93.js.map",
+    "787.aeca62f9.chunk.js.map": "/portfolio-react/static/js/787.aeca62f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.583bfdc7.css",
+    "static/js/main.ba74bb93.js"
+  ]
+}
