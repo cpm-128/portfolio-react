@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-react/static/css/main.b5cf67b6.css",
-    "main.js": "/portfolio-react/static/js/main.9d54b825.js",
+    "main.css": "/portfolio-react/static/css/main.3b9a6e4d.css",
+    "main.js": "/portfolio-react/static/js/main.0762df30.js",
     "static/js/787.aeca62f9.chunk.js": "/portfolio-react/static/js/787.aeca62f9.chunk.js",
     "static/media/funshot_small.jpg": "/portfolio-react/static/media/funshot_small.e7a14c96ce495a2fa669.jpg",
     "static/media/portfolio-img.png": "/portfolio-react/static/media/portfolio-img.15ba93cd11e5d6335843.png",
@@ -24,12 +24,12 @@
     "static/media/tech-blog.png": "/portfolio-react/static/media/tech-blog.ef6504eac53b18f7cb9e.png",
     "static/media/investment-portfolio-dashboard.png": "/portfolio-react/static/media/investment-portfolio-dashboard.4cbca498fbd39d87028d.png",
     "index.html": "/portfolio-react/index.html",
-    "main.b5cf67b6.css.map": "/portfolio-react/static/css/main.b5cf67b6.css.map",
-    "main.9d54b825.js.map": "/portfolio-react/static/js/main.9d54b825.js.map",
+    "main.3b9a6e4d.css.map": "/portfolio-react/static/css/main.3b9a6e4d.css.map",
+    "main.0762df30.js.map": "/portfolio-react/static/js/main.0762df30.js.map",
     "787.aeca62f9.chunk.js.map": "/portfolio-react/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5cf67b6.css",
-    "static/js/main.9d54b825.js"
+    "static/css/main.3b9a6e4d.css",
+    "static/js/main.0762df30.js"
   ]
 }
