@@ -1,17 +1,23 @@
 {
   "files": {
     "main.css": "/portfolio-react/static/css/main.3b9a6e4d.css",
-    "main.js": "/portfolio-react/static/js/main.0762df30.js",
+    "main.js": "/portfolio-react/static/js/main.7c26a86b.js",
     "static/js/787.aeca62f9.chunk.js": "/portfolio-react/static/js/787.aeca62f9.chunk.js",
     "static/media/funshot_small.jpg": "/portfolio-react/static/media/funshot_small.e7a14c96ce495a2fa669.jpg",
     "static/media/portfolio-img.png": "/portfolio-react/static/media/portfolio-img.15ba93cd11e5d6335843.png",
     "static/media/colleen-maher_cycling.jpg": "/portfolio-react/static/media/colleen-maher_cycling.939ca4de8ffef6d2d9cf.jpg",
     "static/media/sasquatch_2022.JPG": "/portfolio-react/static/media/sasquatch_2022.d3319df0be22d8620b38.JPG",
     "static/media/swamp-fox_2022.JPG": "/portfolio-react/static/media/swamp-fox_2022.c2be8391b0faeeac8709.JPG",
+    "static/media/employee-tracker.png": "/portfolio-react/static/media/employee-tracker.9482d33f61b148a7ceeb.png",
+    "static/media/social-network-api.png": "/portfolio-react/static/media/social-network-api.20e720981920eea85b2b.png",
+    "static/media/ecomm-backend.png": "/portfolio-react/static/media/ecomm-backend.f38a271cc35b3855c24a.png",
     "static/media/local-music-scene.jpg": "/portfolio-react/static/media/local-music-scene.a46cbac4731385842d01.jpg",
+    "static/media/readme-generator.png": "/portfolio-react/static/media/readme-generator.95dd630ed291d2c341b2.png",
     "static/media/dirt-diggler_2022.JPG": "/portfolio-react/static/media/dirt-diggler_2022.74bf185040023514c250.JPG",
+    "static/media/password-generator.png": "/portfolio-react/static/media/password-generator.82825279c095d4ebdc37.png",
     "static/media/pinnacle-punisher_2022.JPG": "/portfolio-react/static/media/pinnacle-punisher_2022.2f5e90314bd98e73f278.JPG",
     "static/media/zoo-keepr.png": "/portfolio-react/static/media/zoo-keepr.0221f2bbe41a88968d99.png",
+    "static/media/team-profile-generator-webpage.png": "/portfolio-react/static/media/team-profile-generator-webpage.5292561dbd3edb9133ab.png",
     "static/media/hand-me-up.png": "/portfolio-react/static/media/hand-me-up.365aad9cedac387fc653.png",
     "static/media/aors_2022.jpg": "/portfolio-react/static/media/aors_2022.5755ebd50b91f0c7c636.jpg",
     "static/media/dirt-diggler_2021.JPG": "/portfolio-react/static/media/dirt-diggler_2021.200b158fdf3de0fd0561.JPG",
@@ -25,11 +31,11 @@
     "static/media/investment-portfolio-dashboard.png": "/portfolio-react/static/media/investment-portfolio-dashboard.4cbca498fbd39d87028d.png",
     "index.html": "/portfolio-react/index.html",
     "main.3b9a6e4d.css.map": "/portfolio-react/static/css/main.3b9a6e4d.css.map",
-    "main.0762df30.js.map": "/portfolio-react/static/js/main.0762df30.js.map",
+    "main.7c26a86b.js.map": "/portfolio-react/static/js/main.7c26a86b.js.map",
     "787.aeca62f9.chunk.js.map": "/portfolio-react/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b9a6e4d.css",
-    "static/js/main.0762df30.js"
+    "static/js/main.7c26a86b.js"
   ]
 }
