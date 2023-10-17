@@ -6,6 +6,18 @@ function Races() {
 
     const [events] = useState([
         {
+            title: 'Swamp Fox Gravel Fondo',
+            type: 'Gravel Race',
+            image: require('../assets/images/cycling/swamp-fox_2023.JPG'),
+            result: '2nd Place Womens Open',
+            miles: '100',
+            feetClimbing: '80',
+            hours: '6',
+            minutes: '34',
+            when: 'Mar 2023',
+            results: 'https://www.webscorer.com/race?raceid=308841',
+        },
+        {
             title: 'Asheville Off Road Series',
             type: 'Gravel Race',
             image: require('../assets/images/cycling/aors_2022.jpg'),
