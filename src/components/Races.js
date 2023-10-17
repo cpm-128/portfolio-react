@@ -6,6 +6,18 @@ function Races() {
 
     const [events] = useState([
         {
+            title: 'BWR North Carolina',
+            type: 'Unroad Race',
+            image: require('../assets/images/cycling/bwr-nc_2023.JPG'),
+            result: '2nd Place Womens 23-34, 7th Place Womens Overall',
+            miles: '78',
+            feetClimbing: '9,000',
+            hours: '6',
+            minutes: '28',
+            when: 'Jun 2023',
+            results: 'https://www.omnigoevents.com/events/bwr-nc-2023/results/',
+        },
+        {
             title: 'Swamp Fox Gravel Fondo',
             type: 'Gravel Race',
             image: require('../assets/images/cycling/swamp-fox_2023.JPG'),
