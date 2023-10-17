@@ -6,6 +6,18 @@ function Races() {
 
     const [events] = useState([
         {
+            title: 'Gran Fondo Asheville',
+            type: 'Gran Fondo',
+            image: require('../assets/images/cycling/gran-fondo-asheville_2023.JPG'),
+            result: '1st Place Age Group',
+            miles: '100',
+            feetClimbing: '8,700',
+            hours: '1',
+            minutes: '37',
+            when: 'Jul 2023',
+            results: 'https://www.granfondonationalseries.com/asheville-2023-results#1_19BED2',
+        },
+        {
             title: 'BWR North Carolina',
             type: 'Unroad Race',
             image: require('../assets/images/cycling/bwr-nc_2023.JPG'),
