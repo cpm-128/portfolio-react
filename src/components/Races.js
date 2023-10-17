@@ -20,7 +20,7 @@ function Races() {
         {
             title: 'BWR North Carolina',
             type: 'Unroad Race',
-            image: require('../assets/images/cycling/bwr-nc_2023.JPG'),
+            image: require('../assets/images/cycling/bwr-nc_2023.jpg'),
             result: '2nd Place Womens 23-34, 7th Place Womens Overall',
             miles: '78',
             feetClimbing: '9,000',
@@ -104,7 +104,7 @@ function Races() {
         {
             title: 'Dirt Diggler',
             type: 'Gravel Race',
-            image: require('../assets/images/cycling/dirt-diggler_2021.JPG'),
+            image: require('../assets/images/cycling/dirt-diggler_2021-v2.jpg'),
             result: '3rd Place Womens open',
             miles: '27',
             feetClimbing: '2,500',
