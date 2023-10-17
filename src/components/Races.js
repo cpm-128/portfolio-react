@@ -5,7 +5,19 @@ import { allUpper } from '../utils/helpers';
 function Races() {
 
     const [events] = useState([
+
         {
+            title: 'SBT GRVL',
+            type: 'Gravel Race',
+            image: require('../assets/images/cycling/sbt_2023-v2.jpg'),
+            result: '5th Place Age Group, 12th Place Womens Overall',
+            miles: '100',
+            feetClimbing: '6,000',
+            hours: '6',
+            minutes: '05',
+            when: 'Aug 2023',
+            results: 'https://www.athlinks.com/event/300676/results/Event/1056751/Course/2385143/Division/2180064/Results',
+        },        {
             title: 'Gran Fondo Asheville',
             type: 'Gran Fondo',
             image: require('../assets/images/cycling/gran-fondo-asheville_2023.JPG'),
