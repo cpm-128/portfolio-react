@@ -5,7 +5,18 @@ import { allUpper } from '../utils/helpers';
 function Races() {
 
     const [events] = useState([
-
+        {
+            title: 'USAC National Champtionships',
+            type: 'Gran Fondo',
+            image: require('../assets/images/cycling/gran-fondo-nationals_2023.jpg'),
+            result: '2nd Place Age Group, 50 seconds back',
+            miles: '100',
+            feetClimbing: '5,000',
+            hours: '1',
+            minutes: '27',
+            when: 'Sep 2023',
+            results: 'https://www.granfondonationalseries.com/maryland-2023-results#99_63347F',
+        },
         {
             title: 'SBT GRVL',
             type: 'Gravel Race',
@@ -17,7 +28,8 @@ function Races() {
             minutes: '05',
             when: 'Aug 2023',
             results: 'https://www.athlinks.com/event/300676/results/Event/1056751/Course/2385143/Division/2180064/Results',
-        },        {
+        },
+        {
             title: 'Gran Fondo Asheville',
             type: 'Gran Fondo',
             image: require('../assets/images/cycling/gran-fondo-asheville_2023.JPG'),
@@ -44,7 +56,7 @@ function Races() {
         {
             title: 'Swamp Fox Gravel Fondo',
             type: 'Gravel Race',
-            image: require('../assets/images/cycling/swamp-fox_2023.JPG'),
+            image: require('../assets/images/cycling/swamp-fox_2023-v2.jpg'),
             result: '2nd Place Womens Open',
             miles: '100',
             feetClimbing: '80',
