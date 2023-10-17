@@ -44,7 +44,7 @@ function Races() {
         {
             title: 'BWR North Carolina',
             type: 'Unroad Race',
-            image: require('../assets/images/cycling/bwr-nc_2023.jpg'),
+            image: require('../assets/images/cycling/bwr-nc_2023.JPG'),
             result: '2nd Place Womens 23-34, 7th Place Womens Overall',
             miles: '78',
             feetClimbing: '9,000',
